@@ -108,8 +108,8 @@
 };
 
 &i2c1 {
-        status = "okay";
-        speed-mode = <0>;
+	status = "okay";
+	speed-mode = <0>;
 };
 
 &i2c2 {
